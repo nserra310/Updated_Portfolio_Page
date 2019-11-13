@@ -1,0 +1,59 @@
+h1 {
+        
+    font-family: 'Georgia', Times,'Times New Roman', serif;
+    color: #fff;
+    font-size: 30px;
+    background: #018579;
+    padding: 20px;
+}
+h6 {
+    background: #018579;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    width: 100%;
+ }
+ body,html {
+    margin: 0 auto;
+    padding: 0;
+    background-image: url(../images/topography.png);
+    width:
+ }
+ .nav-link {
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    font-size: 20px;
+    text-align: right;
+ }
+ .navbar-brand {
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    font-size: 20px;
+    background: white;
+ }
+ p {
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    font-size: 20px;
+    background: #fff;
+    padding-left: 10px;
+    padding-right: 10px;
+ }
+ .nav-item:active {
+     color: #777777;
+ }
+.col-md-12 {
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    font-size: 20px;
+    background: #fff;
+    padding-left: 10px;
+    padding-right: 10px;
+ }
+ .footer {
+     color: #101010;
+ }
+ .container {
+    margin: 0 auto;
+
+ }
